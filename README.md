@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Kelvin
+#### I am a DevOps Engineer
+![I am a DevOps Engineer](https://arturssmirnovs.github.io/github-profile-readme-DevOps Engineer/images/banner.png)
 
-<!--
-**kelvind627/Kelvind627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
+And welcome to my profile! I am Kelvin a passionate and experienced DevOps engineer with a strong background in building and managing scalable infrastructure and automating software delivery pipelines. With a focus on continuous integration and deployment, I strive to optimize software development processes, improve efficiency, and ensure reliable and secure software delivery. My technical skills include but not limited to AWS, Azure, and Google Cloud Platform. I am proficient in using tools like Terraform and CloudFormation to provision and manage infrastructure resources in cloud environments.
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS /AWS / Azure / and Google Cloud Platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
